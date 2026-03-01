@@ -1,3 +1,0 @@
-# fastfetchconf
-# fastfetchconf
-# fastfetchconf
