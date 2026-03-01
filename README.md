@@ -1,0 +1,2 @@
+# fastfetchconf
+# fastfetchconf
